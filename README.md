@@ -1,0 +1,2 @@
+# dofus-assets
+Dofus assets
